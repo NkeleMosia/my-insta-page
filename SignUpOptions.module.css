@@ -1,0 +1,15 @@
+.signUpOptions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: 1px;
+    font-size: 14px;
+    color: #262626;
+  }
+  
+  .signUpText {
+    margin: 0;
+  }

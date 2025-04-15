@@ -1,0 +1,19 @@
+.separatorContainer {
+    display: flex;
+    align-items: center;
+    color: #8e8e8e;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 13px;
+  }
+  
+  .separatorLine {
+    flex-grow: 1;
+    height: 1px;
+    background-color: #dbdbdb;
+  }
+  
+  .separatorText {
+    margin-left: 10px;
+    margin-right: 10px;
+  }

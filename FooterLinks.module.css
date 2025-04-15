@@ -1,0 +1,29 @@
+.footerLinks {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: #c7c7c7;
+  }
+  
+  .footerLinks li {
+    margin-right: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .footerLinks li:last-child {
+    margin-right: 0;
+  }
+  
+  .footerLinks a {
+    color: #c7c7c7;
+    text-decoration: none;
+  }
+  
+  .footerLinks a:hover {
+    text-decoration: underline;
+  }
