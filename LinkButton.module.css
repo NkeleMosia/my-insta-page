@@ -1,0 +1,13 @@
+.linkButton {
+    background: none;
+    border: none;
+    color: inherit;
+    text-decoration: none;
+    font: inherit;
+    cursor: pointer;
+    padding: 0;
+  }
+  
+  .linkButton:hover {
+    text-decoration: underline;
+  }

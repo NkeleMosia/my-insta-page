@@ -1,0 +1,8 @@
+/* Basic button styles - you can extend these in component-specific CSS */
+.button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }

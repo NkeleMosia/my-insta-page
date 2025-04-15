@@ -1,0 +1,7 @@
+/* Basic input field styles - you can extend these in component-specific CSS */
+.inputField {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 14px;
+  }
